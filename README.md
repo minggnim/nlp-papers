@@ -1,6 +1,9 @@
 # nlp-papers
 NLP papers to read
 
+# Reviews:
+
+- [ ] Foundation Models for Decision Making: Problems, Methods, and Opportunities https://arxiv.org/pdf/2303.04129.pdf
 
 # Seq2Seq:
 
