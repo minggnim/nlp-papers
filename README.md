@@ -22,3 +22,7 @@ NLP papers to read
 # Causal Inference
 
 - [ ] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality https://arxiv.org/pdf/2305.00050.pdf
+
+# smell2text
+
+- [ ] A Principal Odor Map Unifies Diverse Tasks in Human Olfactory Perception https://www.biorxiv.org/content/10.1101/2022.09.01.504602v2.full.pdf
