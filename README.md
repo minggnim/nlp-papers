@@ -18,3 +18,7 @@ NLP papers to read
     - [ ] Semantic Parsing for Task Oriented Dialogusing Hierarchical Representations https://aclanthology.org/D18-1300.pdf
     - [ ] Low-Resource Domain Adaptation for Compositional Task-Oriented Semantic Parsing https://arxiv.org/pdf/2010.03546v1.pdf
     - [ ] Don’t Parse, Generate! A Sequence to Sequence Architecture for Task-Oriented Semantic Parsing https://arxiv.org/pdf/2001.11458.pdf
+
+# Causal Inference
+
+- [ ] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality https://arxiv.org/pdf/2305.00050.pdf
