@@ -5,6 +5,10 @@ NLP papers to read
 
 - [ ] Foundation Models for Decision Making: Problems, Methods, and Opportunities https://arxiv.org/pdf/2303.04129.pdf
 
+# Transformers:
+
+- [ ] One Wide Feedforward is All You Need https://arxiv.org/pdf/2309.01826.pdf
+
 # Seq2Seq:
 
 - [ ] Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity https://arxiv.org/pdf/2101.03961v3.pdf
