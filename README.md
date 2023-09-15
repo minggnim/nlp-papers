@@ -13,6 +13,11 @@ NLP papers to read
 
 - [ ] Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity https://arxiv.org/pdf/2101.03961v3.pdf
 
+    ## Machine Translation:
+
+    - [ ] No Language Left Behind: Scaling Human-Centered Machine Translation https://arxiv.org/pdf/2207.04672.pdf
+    - [ ] BigTranslate: Augmenting Large Language Models with Multilingual Translation Capability over 100 Languages https://arxiv.org/pdf/2305.18098.pdf
+
     ## Semantic Parsing:
 
     - [ ] Semantic Parsing for Task Oriented Dialogusing Hierarchical Representations https://aclanthology.org/D18-1300.pdf
