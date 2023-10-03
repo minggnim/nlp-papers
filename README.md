@@ -4,6 +4,7 @@ NLP papers to read
 # Reviews:
 
 - [ ] Foundation Models for Decision Making: Problems, Methods, and Opportunities https://arxiv.org/pdf/2303.04129.pdf
+- [ ] A survey of Generative AI Applications https://arxiv.org/abs/2306.02781
 
 # Transformers:
 
